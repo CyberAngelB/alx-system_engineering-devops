@@ -7,3 +7,4 @@
 6. Display the third line
 7. A script that creates a file named exactly
 8. A script that write into a file 
+9. A script that duplicate the last line 
