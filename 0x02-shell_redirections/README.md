@@ -1,3 +1,5 @@
+**MY README FILE FOR SHELL REDIRECTION**
+
 0. A script that nprints "hello World" followed by a new line
 1. A script that displays a confused smiley
 2. A script that display the content of /etc/passwd
@@ -8,4 +10,5 @@
 7. A script that creates a file named exactly
 8. A script that write into a file 
 9. A script that duplicate the last line
-10. script that deletes all the regular files  
+10. script that deletes all the regular files 
+11. script that counts the number of directories and sub-directories in the current directory.  
