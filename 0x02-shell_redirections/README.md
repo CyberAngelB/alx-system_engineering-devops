@@ -4,3 +4,4 @@
 3. A script that display the content of two files
 4. Display the last 10 lines
 5. Display the first 10 lines
+6. Display the third line
