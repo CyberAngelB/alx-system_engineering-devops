@@ -6,3 +6,4 @@
 5. Display the first 10 lines
 6. Display the third line
 7. A script that creates a file named exactly
+8. A script that write into a file 
