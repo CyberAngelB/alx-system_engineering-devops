@@ -11,4 +11,5 @@
 8. A script that write into a file 
 9. A script that duplicate the last line
 10. script that deletes all the regular files 
-11. script that counts the number of directories and sub-directories in the current directory.  
+11. script that counts the number of directories and sub-directories in the current directory.
+12. a script that displays the 10 newest files in the current directory.  
