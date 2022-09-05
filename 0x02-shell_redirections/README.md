@@ -18,4 +18,5 @@
 14. Display lines containing the pattern “root” from the file
 15. Display the number of lines that contain the pattern
 16. Display lines containing the pattern “root” and 3 lines after them in the file
-17. Display all the lines in the file   
+17. Display all the lines in the file
+18. Display all lines of the file    
