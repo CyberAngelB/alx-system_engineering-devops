@@ -1,2 +1,3 @@
 0. A script that nprints "hello World" followed by a new line
 1. A script that displays a confused smiley
+2. A script that display the content of /etc/passwd
